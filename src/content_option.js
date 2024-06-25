@@ -1,11 +1,11 @@
-const logotext = "KSHITIJ";
+const logotext = "MSK";
 const meta = {
-    title: "Kshitij Singh",
-    description: "I’m Kshitij Singh, a full stack web developer currently studying at KLE Technological University.",
+    title: "Manoj S Kulkarni",
+    description: "I’m Manoj S Kulkarni, a full stack web developer currently studying at KLE Technological University.",
 };
 
 const introdata = {
-    title: "I’m Kshitij Singh",
+    title: "I’m Manoj S Kulkarni",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -16,7 +16,7 @@ const introdata = {
 };
 const dataabout = {
     title: "about my self",
-    aboutme: "Hi, I’m Kshitij Singh, currently pursuing a Bachelor of Engineering at KLE Technological University. I have learned the MERN stack and have completed several projects in this area. I am also interested in competitive programming, which has honed my problem-solving abilities. Currently, I am expanding my skill set by learning Spring Boot and have completed a minor project titled Quality Education, aimed at addressing educational challenges through innovative solutions. My passion for coding drives me to continually improve and stay updated with the latest technological advancements."
+    aboutme: "Hi, I’m Manoj S Kulkarni, currently pursuing a Bachelor of Engineering at KLE Technological University. I have learned the MERN stack and have completed several projects in this area. I am also interested in competitive programming, which has honed my problem-solving abilities. Currently, I am expanding my skill set by learning Spring Boot and have completed a minor project titled Quality Education, aimed at addressing educational challenges through innovative solutions. My passion for coding drives me to continually improve and stay updated with the latest technological advancements."
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -135,8 +135,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "kshitij2k04@gmail.com",
-    YOUR_FONE: "9555402098",
+    YOUR_EMAIL: "manojskulkarni20003@gamil.com",
+    YOUR_FONE: "8762490488",
     description: "If you have any queries, feel free to contact me.",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -146,10 +146,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/kshitij583415",
-    facebook: "https://facebook.com",
-    linkedin: "https://www.linkedin.com/in/kshitijsingh58/",
-    twitter: "https://x.com/Kshitij52_",
+    github: "https://github.com/manojskulkarni2003",
 };
 export {
     contactConfig, dataabout,
